@@ -1,6 +1,6 @@
 # Unity_Do
 
-``Do`` provides some functions to do something which you want with delay.
+``Do`` provides some functions to do something with delay.
 
 ## Import to Your Project
 
@@ -15,7 +15,7 @@ You can import this asset from UnityPackage.
 | Function                | About                                                                    |
 | ----------------------- | ------------------------------------------------------------------------ |
 | Do.AfterSeconds         | Do after specified seconds.                                              |
-| Do.AfterSecondsRealtime | Do after seconds. This functions ignore time.scale.                      |
+| Do.AfterSecondsRealtime | Do after seconds. This functions ignore ``Time.timeScale``.              |
 | Do.AfterFrames          | Do somthing after specified frame counts.                                |
 | Do.After                | Do after another coroutine.                                              |
 | Do.AtFixedUpdate        | Do at ``FixedUpdate()``. ``FixedUpdate()`` will be called before ``Update()`` in next frame. |
