@@ -32,4 +32,4 @@ Do.AfterSeconds(this, 1.5f, () => { Debug.Log("Do.AfterSeconds"); });
 ## Limitation
 
 ``Do`` is coded with coroutine. So almost functions will make at least 1 frame delay.
-Ex. ``Do.AfterSeconds(this, 0, ()=>{})`` will be not done in same frame.
+Ex. ``Do.AfterSeconds(this, 0, ()=>{})`` will not be done in same frame.
