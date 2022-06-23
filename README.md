@@ -2,11 +2,13 @@
 
 ``Do`` provides some functions to do something with delay.
 
-## Import to Your Project
+## Importing
 
-You can import this asset from UnityPackage.
+You can use Package Manager or import it directly.
 
-- [Do.unitypackage](https://github.com/XJINE/Unity_Do/blob/master/Do.unitypackage)
+```
+https://github.com/XJINE/Unity_Do.git?path=Assets/Packages/Do
+```
 
 ## How to Use
 
