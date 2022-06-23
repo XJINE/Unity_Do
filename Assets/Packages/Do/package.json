@@ -1,0 +1,18 @@
+{
+    "name"       : "com.xjine.do",
+    "displayName": "Do", 
+    "version"    : "1.0.0",
+    "unity"      : "2021.3",
+    "description": "Do provides some functions to do something with delay.",
+    "author"     :
+    {
+        "name": "XJINE",
+        "url" : "https://github.com/XJINE"
+    },
+    "keywords":
+    [
+    ],
+    "dependencies":
+    {
+    }
+}
